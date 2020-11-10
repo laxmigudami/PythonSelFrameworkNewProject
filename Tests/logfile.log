@@ -1,0 +1,85 @@
+2020-07-12 12:03:59,277 : INFO : Utilities.BaseClass : getting all the card titles
+2020-07-12 12:03:59,423 : INFO : Utilities.BaseClass : iphone X
+2020-07-12 12:03:59,454 : INFO : Utilities.BaseClass : Samsung Note 8
+2020-07-12 12:03:59,498 : INFO : Utilities.BaseClass : Nokia Edge
+2020-07-12 12:03:59,530 : INFO : Utilities.BaseClass : Blackberry
+2020-07-12 12:03:59,530 : INFO : Utilities.BaseClass : adding item to the cart
+2020-07-12 12:04:00,785 : INFO : Utilities.BaseClass : entering country name as ind
+2020-07-12 12:04:07,040 : INFO : Utilities.BaseClass : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-12 12:11:24,666 : INFO : test_e2e : getting all the card titles
+2020-07-12 12:11:24,740 : INFO : test_e2e : iphone X
+2020-07-12 12:11:24,760 : INFO : test_e2e : Samsung Note 8
+2020-07-12 12:11:24,778 : INFO : test_e2e : Nokia Edge
+2020-07-12 12:11:24,805 : INFO : test_e2e : Blackberry
+2020-07-12 12:11:24,806 : INFO : test_e2e : adding item to the cart
+2020-07-12 12:11:25,803 : INFO : test_e2e : entering country name as ind
+2020-07-12 12:11:31,923 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-12 12:19:17,016 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:19:19,270 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:19:19,919 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:19:19,919 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:19:20,920 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:19:20,920 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:19:31,006 : INFO : test_e2e : getting all the card titles
+2020-07-12 12:19:31,113 : INFO : test_e2e : iphone X
+2020-07-12 12:19:31,154 : INFO : test_e2e : Samsung Note 8
+2020-07-12 12:19:31,185 : INFO : test_e2e : Nokia Edge
+2020-07-12 12:19:31,229 : INFO : test_e2e : Blackberry
+2020-07-12 12:19:31,229 : INFO : test_e2e : adding item to the cart
+2020-07-12 12:19:31,830 : INFO : test_e2e : entering country name as ind
+2020-07-12 12:19:37,490 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-12 12:38:06,465 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:38:08,587 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:38:09,333 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:38:09,333 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:38:10,478 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:38:10,478 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:38:20,986 : INFO : test_e2e : getting all the card titles
+2020-07-12 12:38:21,082 : INFO : test_e2e : iphone X
+2020-07-12 12:38:21,120 : INFO : test_e2e : Samsung Note 8
+2020-07-12 12:38:21,148 : INFO : test_e2e : Nokia Edge
+2020-07-12 12:38:21,175 : INFO : test_e2e : Blackberry
+2020-07-12 12:38:21,175 : INFO : test_e2e : adding item to the cart
+2020-07-12 12:38:21,791 : INFO : test_e2e : entering country name as ind
+2020-07-12 12:38:27,462 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-12 12:41:38,690 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:41:40,644 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:41:41,126 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:41:41,126 : INFO : test_formSubmission : entering details into all the fields
+2020-07-12 12:41:42,172 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:41:42,172 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2020-07-12 12:41:52,801 : INFO : test_e2e : getting all the card titles
+2020-07-12 12:41:52,883 : INFO : test_e2e : iphone X
+2020-07-12 12:41:52,909 : INFO : test_e2e : Samsung Note 8
+2020-07-12 12:41:52,929 : INFO : test_e2e : Nokia Edge
+2020-07-12 12:41:52,954 : INFO : test_e2e : Blackberry
+2020-07-12 12:41:52,955 : INFO : test_e2e : adding item to the cart
+2020-07-12 12:41:53,452 : INFO : test_e2e : entering country name as ind
+2020-07-12 12:41:59,188 : INFO : test_e2e : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-07-13 15:52:35,780 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 15:53:50,743 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 15:56:26,551 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:06:31,987 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:07:11,725 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:09:18,438 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:10:28,100 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:16:19,446 : INFO : test_formSubmission : {'firstname': 'laxmi', 'Email': 'gudamilaxmi444@gmail.com', 'password': 'laxmi@123', 'gender': 'female'}
+2020-07-13 16:16:19,447 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:18:02,985 : INFO : test_formSubmission : {'firstname': 'laxmi', 'Email': 'gudamilaxmi444@gmail.com', 'password': 'laxmi@123', 'gender': 'Female'}
+2020-07-13 16:18:02,993 : INFO : test_formSubmission : entering details into all the fields
+2020-07-13 16:18:04,859 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
