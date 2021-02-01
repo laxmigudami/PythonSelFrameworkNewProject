@@ -1,0 +1,2 @@
+# PythonSelFrameworkNewProject
+Framework project
